@@ -1,10 +1,10 @@
-Project Title
-💪 Fitness Analytics Dashboard – A Deep Dive into Data-Driven Fitness Insights.
-
-📖 Description
+**Project Title
+💪 Fitness Analytics Dashboard – A Deep Dive into Data-Driven Fitness Insights.**
+**
+📖 Description**
 The Fitness Analytics Dashboard is an interactive web-based analytics tool designed to visualize fitness-related data including client statistics, trainer performance, revenue tracking, calorie calculations, and BMI analysis. It aims to provide gym owners, trainers, and members with an intuitive platform to monitor physical health metrics and financial performance in one centralized dashboard.
 
-🧠 Business Problem
+**🧠 Business Problem**
 Gyms and fitness centers often struggle with managing multiple data sources — from client progress and trainer performance to revenue and calorie tracking. Without a unified platform, insights are fragmented, making it difficult to:
 
 Track client engagement and memberships.
@@ -15,7 +15,7 @@ Analyze calorie and BMI trends.
 
 Monitor revenue and expenses effectively.
 
-🎯 Goal of the Dashboard
+**🎯 Goal of the Dashboard**
 The primary goal of this dashboard is to create a data-driven ecosystem for fitness centers that enables:
 
 Real-time monitoring of key fitness and financial metrics.
@@ -26,7 +26,7 @@ Visualization of business performance trends.
 
 Improved decision-making for fitness management and growth.
 
-💼 Business Impact
+**💼 Business Impact**
 Implementing this dashboard helps fitness businesses to:
 
 📈 Enhance Revenue Insights: Visualize profit trends across months for better financial planning.
@@ -37,14 +37,14 @@ Implementing this dashboard helps fitness businesses to:
 
 ⚙️ Optimize Operations: Monitor trainer performance and allocate resources efficiently.
 
-🧩 Tech Stack
+**🧩 Tech Stack**
 Microsoft Power BI
 
 Microsoft Excel
 
 Data Visualization & Storytelling
 
-🚀 Features
+**🚀 Features**
 Home Page
 Clean landing section introducing the analytics dashboard.
 
