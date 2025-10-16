@@ -1,6 +1,6 @@
-**🏋️‍♂️ Fitness Analytics Dashboard
+**🏋️‍♂️ Fitness Analytics Dashboard**
 
-📖 Description**
+**📖 Description**
 
 The Fitness Analytics Dashboard is an interactive web-based analytics tool designed to visualize fitness-related data including client statistics, trainer performance, revenue tracking, calorie calculations, and BMI analysis.
 It aims to provide gym owners, trainers, and members with an intuitive platform to monitor physical health metrics and financial performance in one centralized dashboard.
